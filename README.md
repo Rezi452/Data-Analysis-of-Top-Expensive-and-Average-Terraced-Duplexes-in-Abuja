@@ -1,0 +1,2 @@
+# Data-Analysis-of-Top-Expensive-and-Average-Terraced-Duplexes-in-Abuja
+Analyzing 24,326 Nigerian houses with Python, this project focuses on Abuja's terraced duplexes. We investigate why identical properties in developed areas are priced vastly differently, despite similar features (bedrooms, baths, etc.). The goal: identify such expensive/average homes and their bedroom counts to understand this disparity
